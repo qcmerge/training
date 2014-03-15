@@ -12,6 +12,7 @@ Meeting every Saturday from Apr. 5, 2014 to Jun. 28, 2014. To pull this of we'll
 * [Choose or write the cirriculum](https://github.com/qcmerge/training/issues/3)
 * [Select or solicit students](https://github.com/qcmerge/training/issues/4)
 * [Permit TAs to volunteer for specific course dates](https://github.com/qcmerge/training/issues/5)
+
 You may sign-up [here](http://www.eventbrite.com/e/introduction-to-ruby-on-rails-12-weeks-tickets-10670011291). Can't make this one? We plan to offer the course every quarter for the foreseeable future. We also plan to offer an "Advanced Web Development" course starting in July 2014 also to run every quarter.
 
 Introduction to Web Design for Graphic/Print Designers
