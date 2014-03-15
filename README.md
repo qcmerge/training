@@ -8,7 +8,7 @@ Here's where we'll discuss efforts to equip community members with skills that a
 Introduction to Ruby on Rails
 ---
 Meeting every Saturday from Apr. 5, 2014 to Jun. 28, 2014. To pull this of we'll need to:
-* [Recruit instructors](https://github.com/qcmerge/training/issues/2)
+* ~~[Recruit instructors](https://github.com/qcmerge/training/issues/2)~~
 * [Choose or write the cirriculum](https://github.com/qcmerge/training/issues/3)
 * [Select or solicit students](https://github.com/qcmerge/training/issues/4)
 * [Permit TAs to volunteer for specific course dates](https://github.com/qcmerge/training/issues/5)
