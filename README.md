@@ -17,6 +17,8 @@ You may sign-up [here](http://www.eventbrite.com/e/introduction-to-ruby-on-rails
 
 Introduction to Web Design for Graphic/Print Designers
 ---
-Planned for late May or early June 2014. Currently we're:
-* [Developing session ideas](https://github.com/qcmerge/training/issues/9)
+Planned for Aug. 16. Currently we're:
+* [Planning the event](https://github.com/qcmerge/training/issues/13)
 * [Selecting a location](https://github.com/qcmerge/training/issues/10)
+* [Planning the morning session](https://github.com/qcmerge/training/issues/11)
+* [Planning the afternoon session](https://github.com/qcmerge/training/issues/12)
